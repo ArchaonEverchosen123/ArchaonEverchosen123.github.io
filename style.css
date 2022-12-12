@@ -7,26 +7,14 @@ html, body {
 }
 
 header {  
-    background-color: black;  
-    position: static;  
-    left: 0;  
-    right: 0;  
-    top: 0px;  
-    height: 300px;  
-    display: flex;  
-    align-items: center;  
-    box-shadow: 0 0 25px 0 black; 
+  width: 100%;
+  background-image: url("Grey Zone Ethics LLC_Finals-02.png");
+  height: 380px;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
 }  
-header * {  
-    display: inline;  
-}  
-header li {  
-    margin: 180px;  
-}
 
-a {
-  color:grey;
-}
 .textbox {
     text-align: left;
     margin-left:200px;
