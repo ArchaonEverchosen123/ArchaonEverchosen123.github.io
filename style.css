@@ -7,20 +7,19 @@ html, body {
 }
 
 header {  
-width: 100%;
-max-width: 100%;
+height: 30vw;
 background-image: url("Grey Zone Ethics LLC_Finals-02.png");
-height: 380px;
 background-color: black;
 background-position: center;
 background-repeat: no-repeat;
+background-size: cover;
 
 }  
 
 .textbox {
   text-align: left;
   padding: 50px;
-  font-size: 1vw;
+  font-size: 1.1vw;
 }
 
 a {
@@ -87,7 +86,7 @@ text-align: left;
 }
 .text2 {
 color: white;
-font-size: 18px;
+font-size: 1vw;
 padding: 10px 115px;
 position: absolute;
 bottom: 200px;
@@ -107,8 +106,8 @@ top: 0;
 /* The dots/bullets/indicators */
 .dot {
 cursor: pointer;
-height: 15px;
-width: 15px;
+height: 1.2vw;
+width: 1.2vw;
 margin: 0 2px;
 background-color: rgb(255, 255, 255);
 border-radius: 50%;
@@ -134,10 +133,12 @@ to {opacity: 1}
 .contact-info {
 color: black;
 text-align: center;
+font-size: 1vw;
 }
 
 .legal-stuff {
 color:black;
 margin: 20px;
 text-align: center;
+font-size: 1vw;
 }
