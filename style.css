@@ -19,7 +19,7 @@ background-size: cover;
 .textbox {
   text-align: left;
   padding: 5vw;
-  font-size: 1.2vw;
+  font-size: 1.5vw;
   color: black;
 }
 
@@ -79,19 +79,19 @@ background-color: rgba(0,0,0,0.8);
 /* Caption text */
 .text1 {
 color: #f2f2f2;
-font-size: 1.2vw;
+font-size: 2vw;
 padding: 1vw 12vw;
 position: absolute;
-bottom: 20vw;
+bottom: 10vw;
 width: 60%;
 text-align: left;
 }
 .text2 {
 color: white;
-font-size: 1.2vw;
+font-size: 2vw;
 padding: 1vw 10vw;
 position: absolute;
-bottom: 20vw;
+bottom: 15vw;
 width: 100%;
 text-align: center;
 }
@@ -135,13 +135,13 @@ to {opacity: 1}
 .contact-info {
 color: black;
 text-align: center;
-font-size: 1.2vw;
+font-size: 1.5vw;
 }
 
 .legal-stuff {
 color:black;
 margin: 20px;
 text-align: center;
-font-size: 1.2vw;
+font-size: 1.5vw;
 }
 
