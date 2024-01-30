@@ -20,7 +20,7 @@ background-size: cover;
 .textbox {
   text-align: left;
   padding: 5vw;
-  font-size: 1.5vw;
+  font-size: 2vw;
   color: black;
 }
 
@@ -146,25 +146,25 @@ font-size: 1.5vw;
 color:black;
 margin: 20px;
 text-align: center;
-font-size: 1.5vw;
+font-size: 2vw;
 }
 
 /*contact page styles */
 .contact {
-  width: 60vw;
+  width: 80vw;
   box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
   margin: 0 auto;
   margin-top: 6vw;
   margin-bottom: 6vw;
-  height: 55rem;
+  height: 45rem;
   border-radius: 2rem;
-  padding: 2rem;
+  padding: 1rem;
   background-color: white;
 }
 
 .contact h1 {
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   padding: 1rem 2rem;
 }
  
@@ -172,7 +172,7 @@ form {
   margin: 3rem 0;
   display: flex;
   flex-direction: column;
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
  
 .input__container {
