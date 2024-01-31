@@ -156,9 +156,9 @@ font-size: 2vw;
   margin: 0 auto;
   margin-top: 6vw;
   margin-bottom: 6vw;
-  height: 45rem;
+  height: 50rem;
   border-radius: 2rem;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   background-color: white;
 }
 
@@ -184,7 +184,7 @@ form {
 .input__container label { font-size: 1.6rem; }
  
 .input__container input, textarea {
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   border-radius: 5px;
   border: 1px solid #555;
   resize: none;
@@ -196,7 +196,7 @@ textarea {
 
 .submitbutton {
   align-self: flex-start;
-  padding: 1rem 2rem;
+  padding: 1rem 1rem;
   border-radius: 5px;
   border: none;
   background: #333;
