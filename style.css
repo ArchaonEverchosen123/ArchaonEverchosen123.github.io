@@ -211,3 +211,9 @@ textarea {
   background-color: grey;
 }
 
+.contact-email {
+    padding: 3vw;
+  margin: 3vw;
+  color: black;
+  background-color: white;
+}
